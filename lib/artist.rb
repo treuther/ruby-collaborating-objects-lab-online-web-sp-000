@@ -9,5 +9,5 @@ def initialize(name)
 end
 
 def save
-  @@all
+  @@all << self
 end
