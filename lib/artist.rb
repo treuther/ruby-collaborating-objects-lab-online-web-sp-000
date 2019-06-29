@@ -9,6 +9,10 @@ def initialize(name)
   @songs = []
 end
 
+def add_song
+  @song << song
+end
+
 def save
   @@all << self
 end
