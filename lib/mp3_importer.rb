@@ -1,3 +1,3 @@
-class MP3_Importer
+class MP3Importer
 
 end
